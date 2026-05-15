@@ -134,7 +134,7 @@ body{font-family:'Mulish',sans-serif;background:#1a1a2e;color:#fff;min-height:10
 // Get it from: stripe.com → Developers → API Keys
 // It starts with pk_test_ (test) or pk_live_ (live)
 // ══════════════════════════════════════════
-const STRIPE_PUBLISHABLE_KEY = 'pk_test_REPLACE_WITH_YOUR_KEY';
+const STRIPE_PUBLISHABLE_KEY = 'pk_test_51TXEsaCzOxLaHXl2GJalOveBQvd7cDrook2SnCyDMDVDOBzCYtEeJbM9j8B7nDxACAKc3joHm4Q0OPmKGBACkh1Y00UPoPbjQX;
 
 // ══════════════════════════════════════════
 // REPLACE THESE WITH YOUR STRIPE PRICE IDs
